@@ -49,13 +49,12 @@ body {
 
 .i1{
     
-    display: flex;
-  vertical-align: middle;
- background-color: #E7DED7;
-    width: 20%;
+  
+ 
+    width: 40%;
     height: 40%;
     border-radius: 25px;
-    float: left;
+    float: right;
     margin-right: 20px;
     margin-left: 229px;
   
