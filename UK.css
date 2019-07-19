@@ -30,17 +30,17 @@ body {
 
 .main-contect li{
      list-style: none;
-        float: left;
-        text-align: center;
+        float: right;
+        
        align-content: center;
         background-color: #E7DED7;
-        background-size:15PX;
-    width: 80%;
-    height: 80%;
+        background-size:10PX;
+    width: 40%;
+    height: 40%;
     border-radius: 25px;
    display: flex;
  
-    margin-right: 70px;
+    margin-right: 20px;
    
   
           
